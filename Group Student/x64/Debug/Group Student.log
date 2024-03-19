@@ -1,0 +1,8 @@
+﻿  Group Student.cpp
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(162,38): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(181,38): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(186,42): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(196,54): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(217,54): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(222,42): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Group Student.vcxproj -> C:\Users\Quixar\source\repos\Group Student\x64\Debug\Group Student.exe
